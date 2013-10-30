@@ -1,4 +1,4 @@
 sinon-require
 =============
 
-Sinon Mocks intercept Module requires in NodeJs
+Apply sinon mocks to nodejs require calls.

@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Gregory Langlais",
+    "email": "general@gregorylanglais.com"
+  },
+  "name": "sinon-require",
+  "description": "Apply sinon mocks to nodejs require calls",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gregl83/sinon-require.git"
+  },
+  "dependencies": {
+    "sinon": "1.7.x"
+  },
+  "devDependencies": {
+    "mocha": "1.12.x"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
